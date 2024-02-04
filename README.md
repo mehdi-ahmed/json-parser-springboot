@@ -12,8 +12,6 @@ startup and automatically runs `docker compose up` for you.
 - You need to have docker installed and running on you machine.
 
 
-Source:
-https://www.youtube.com/watch?v=erp-7MCK5BU
 --------------------------------
 - For a detailed explanation, check this Evernote note: https://www.evernote.com/client/web#/note/ae4c2526-f574-5f92-0c5a-f9e3cd2e2def
 
